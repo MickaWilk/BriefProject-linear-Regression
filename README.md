@@ -9,6 +9,6 @@
 - Optionnel : Architecture du projet en POO, RandomizeSearch, GridSearch, Learning curve.
 
 **Outils à utiliser :**
-- Analyse : Notebooke, Numpy, Pandas, Matplotlib ou Seaborn. Sklearn ou Stat model.
+- Analyse : Notebook, Numpy, Pandas, Matplotlib ou Seaborn. Sklearn ou Stat model.
 - Sklearn : RandomizeSearch, GridSearch, Cross validation, Train/Test Split, model de Regression Lineaire Pipeline.
 - Gestion de Projet Agile: Github, Trello (ou autre outil de gestion de projet : Jira, Clickup, Teams, etc...).
