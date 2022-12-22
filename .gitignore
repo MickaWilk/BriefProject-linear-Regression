@@ -1,0 +1,8 @@
+# Ignore les fichiers Pickle
+*.pkl
+
+# Ignore les fichiers CSV
+*.csv
+
+# Ignore les fichiers HTML générés
+*.html
