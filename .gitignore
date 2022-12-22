@@ -3,6 +3,3 @@
 
 # Ignore les fichiers CSV
 *.csv
-
-# Ignore les fichiers HTML générés
-*.html
