@@ -12,3 +12,5 @@
 - Analyse : Notebook, Numpy, Pandas, Matplotlib ou Seaborn. Sklearn ou Stat model.
 - Sklearn : RandomizeSearch, GridSearch, Cross validation, Train/Test Split, model de Regression Lineaire Pipeline.
 - Gestion de Projet Agile: Github, Trello (ou autre outil de gestion de projet : Jira, Clickup, Teams, etc...).
+
+Créer la slide: jupyter nbconvert LinReg.ipynb --to slides --SlidesExporter.reveal_scroll=True
